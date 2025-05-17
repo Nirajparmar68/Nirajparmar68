@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hey, I'm Niraj Parmar!
 
-<!--
-**Nirajparmar68/Nirajparmar68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 .NET Developer | API Specialist | Clean Code Advocate | Open Source Explorer
 
-Here are some ideas to get you started:
+I love building scalable backend systems and playing with C#, SQL Server, and modern software practices. Currently on a mission to contribute meaningfully to the open source community.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+- 💻 Languages: C#, JavaScript, SQL, HTML/CSS
+- 🧰 Frameworks: .NET Core, ASP.NET MVC, Entity Framework
+- 🔗 APIs: RESTful APIs, Web Services
+- 🧪 Tools: Git, Postman, Visual Studio, LINQPad
+- ☁️ Hosting: SmarterASP, Hostinger
+
+---
+
+### 🌱 What I'm Doing Now
+- 🚧 Making my **first Open Source contributions**
+- 📖 Sharpening skills in **clean architecture** and **unit testing**
+- 💡 Learning better debugging, estimation & communication skills
+- 🔍 Exploring real-world `.NET` projects and contributing to them
+
+---
+
+### 🤝 Connect with Me
+- [🌐 Portfolio](https://cv.neocorporation.in/)
+- [📫 LinkedIn](https://www.linkedin.com/in/neothehacker68/)
+- [📁 GitHub](https://github.com/Nirajparmar68)
+
+---
+
+> "In a world of noise, be the clean, well-tested function." 😎
